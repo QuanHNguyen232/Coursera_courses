@@ -1,2 +1,3 @@
 # Coursera-courses
-<img alt="License" src="https://img.shields.io/github/license/QuanHNguyen232/Coursera-courses.svg" />
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
