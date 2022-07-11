@@ -5,5 +5,6 @@
 <ol type="1">
     <li>Deep Learning with PyTorch : Object Localization (<a href="https://coursera.org/share/69a1c85aede0fa6fc7ddc472c0a9018a">certificate</a>/<a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep-Learning-with-PyTorch-Object-Localization.ipynb">src_code</a>)
     </li>
-    
+    <li>Deep Learning with PyTorch : Image Segmentation (<a href="https://coursera.org/share/23d1f90b78230464760aa1d075c626ab">certificate</a>/<a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep-Learning-with-PyTorch-ImageSegmentation.ipynb">src_code</a>)
+    </li>
 </ol>
