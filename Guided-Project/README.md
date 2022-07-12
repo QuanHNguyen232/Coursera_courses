@@ -7,4 +7,6 @@
     </li>
     <li>Deep Learning with PyTorch : Image Segmentation (<a href="https://coursera.org/share/23d1f90b78230464760aa1d075c626ab">certificate</a>/<a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep-Learning-with-PyTorch-ImageSegmentation.ipynb">src_code</a>)
     </li>
+    <li>Aerial Image Segmentation with PyTorch (<a href="https://coursera.org/share/ced734db6cc9bee7f88004cf783093f6">certificate</a>/<a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/">src_code</a>)
+    </li>
 </ol>
