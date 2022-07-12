@@ -16,9 +16,7 @@
             <li>Sequence Models</li>
         </ol>
     </details>
-
     </li>
-    
 </ol>
 
 ## Courses
