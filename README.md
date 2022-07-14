@@ -7,13 +7,34 @@
 <ol type="1">
     <li>
     <details>
-        <summary markdown="span">Deep Learning Specialization (<a href=".">certificate</a>|<a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/Deep-Learning-Specialization">src_code</a>)</summary>
-        <ol type="1">
+        <summary markdown="span">Deep Learning Specialization (<a href=".">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/Deep-Learning-Specialization">src_code</a>)</summary>
+        <ol type="a">
             <li>Neural Networks and Deep Learning</li>
             <li>Improving Deep Neural Networks Hyperparameter Tuning Regularization and Optimization</li>
             <li>Structuring Machine Learning Projects</li>
             <li>Convolutional Neural Networks</li>
             <li>Sequence Models</li>
+        </ol>
+    </details>
+    </li>
+    <li>
+    <details>
+        <summary markdown="span">Generative Adversarial Networks (GANs) Specialization (<a href=".">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/Generative-Adversarial-Networks-(GANs)-Specialization">src_code</a>)</summary>
+        <ol type="a">
+            <li>Build Basic Generative Adversarial Networks (GANs)</li>
+            <li>Build Better Generative Adversarial Networks (GANs)</li>
+            <li>Apply Generative Adversarial Networks (GANs)</li>
+        </ol>
+    </details>
+    </li>
+    <li>
+    <details>
+        <summary markdown="span">DeepLearning.AI TensorFlow Developer Professional Certificate (<a href=".">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate">src_code</a>)</summary>
+        <ol type="a">
+            <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</li>
+            <li>Convolutional Neural Networks in TensorFlow</li>
+            <li>Natural Language Processing in TensorFlow</li>
+            <li>Sequences, Time Series and Prediction</li>
         </ol>
     </details>
     </li>
@@ -27,14 +48,13 @@
 </ol>
 
 ## Guided Projects
-Certificates and src_code: [Coursera-courses/Guided-Project](https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project)
+
 <ol type="1">
-    <li>Deep Learning with PyTorch : Object Localization
+    <li>Deep Learning with PyTorch : Object Localization (<a href="https://coursera.org/share/69a1c85aede0fa6fc7ddc472c0a9018a">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep-Learning-with-PyTorch-Object-Localization.ipynb">src_code</a>)
     </li>
-    <li>Deep Learning with PyTorch : Image Segmentation
+    <li>Deep Learning with PyTorch : Image Segmentation (<a href="https://coursera.org/share/0437c4cfdc823c2e7b2b1f92dc83da27">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep-Learning-with-PyTorch-ImageSegmentation.ipynb">src_code</a>)
     </li>
-    <li>Aerial Image Segmentation with PyTorch
+    <li>Aerial Image Segmentation with PyTorch (<a href="https://coursera.org/share/1564a35bcb8ba285638c61f8eb59f5b9">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Aerial-Image-Segmentation-with-PyTorch.ipynb">src_code</a>)
     </li>
-    
 </ol>
 
