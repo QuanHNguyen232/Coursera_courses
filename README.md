@@ -7,7 +7,7 @@
 <ol type="1">
     <li>
     <details>
-        <summary markdown="span">Deep Learning Specialization (<a href=".">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/Deep-Learning-Specialization">src_code</a>)</summary>
+        <summary markdown="span">Deep Learning Specialization (certificate | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/Deep-Learning-Specialization">src_code</a>)</summary>
         <ol type="a">
             <li>Neural Networks and Deep Learning</li>
             <li>Improving Deep Neural Networks Hyperparameter Tuning Regularization and Optimization</li>
@@ -19,7 +19,7 @@
     </li>
     <li>
     <details>
-        <summary markdown="span">Generative Adversarial Networks (GANs) Specialization (<a href=".">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/Generative-Adversarial-Networks-(GANs)-Specialization">src_code</a>)</summary>
+        <summary markdown="span">Generative Adversarial Networks (GANs) Specialization (certificate | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/Generative-Adversarial-Networks-(GANs)-Specialization">src_code</a>)</summary>
         <ol type="a">
             <li>Build Basic Generative Adversarial Networks (GANs)</li>
             <li>Build Better Generative Adversarial Networks (GANs)</li>
@@ -29,7 +29,7 @@
     </li>
     <li>
     <details>
-        <summary markdown="span">DeepLearning.AI TensorFlow Developer Professional Certificate (<a href=".">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate">src_code</a>)</summary>
+        <summary markdown="span">DeepLearning.AI TensorFlow Developer Professional Certificate (certificate | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate">src_code</a>)</summary>
         <ol type="a">
             <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</li>
             <li>Convolutional Neural Networks in TensorFlow</li>
@@ -56,7 +56,7 @@
     </li>
     <li>Aerial Image Segmentation with PyTorch (<a href="https://coursera.org/share/1564a35bcb8ba285638c61f8eb59f5b9">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Aerial-Image-Segmentation-with-PyTorch.ipynb">src_code</a>)
     </li>
-    <li>Deep Learning with PyTorch: Neural Style Transfer (<a href="https://coursera.org/share/7599a1e8ef92ba83f1b1e93e63920e0d">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep_Learning_with_PyTorch_Neural_Style_Transfer.ipynb">src_code</a>)
+    <li>Deep Learning with PyTorch: Neural Style Transfer (<a href="https://coursera.org/share/7599a1e8ef92ba83f1b1e93e63920e0d">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep-Learning-with-PyTorch-Neural-Style-Transfer.ipynb">src_code</a>)
     </li>
 </ol>
 
