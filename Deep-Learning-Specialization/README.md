@@ -18,3 +18,33 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/)
 *Note*:
 * Courses taken from 6/2022
 * Files in this part cannot run locally since they use packages from Coursera's system. Code here is just to save for later review
+
+## Folder Structure
+```shell
+.
+├───Convolutional-Neural-Networks
+│   ├───Art Generation with Neural Style Transfer
+│   ├───Car detection with YOLO
+│   ├───Convolution Model Application
+│   ├───Convolutional Model, Step by Step
+│   ├───Face Recognition
+│   ├───Image Segmentation with U-Net
+│   ├───Residual Networks
+│   └───Transfer Learning with MobileNet
+├───Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization
+│   ├───Gradient Checking
+│   ├───Initialization
+│   ├───Optimization Methods
+│   ├───Regularization
+│   └───TensorFlow Introduction
+├───Neural-Networks-and-Deep-Learning
+│   ├───Building your Deep Neural Network Step by Step
+│   ├───Deep Neural Network - Application
+│   ├───Logistic Regression with a Neural Network Mindset
+│   ├───Planar Data Classification with One Hidden Layer
+│   └───Python Basics with Numpy
+├───Sequence-Models
+│   ├───Building your Recurrent Neural Network - Step by Step
+│   └───Dinosaur Island-Character-Level Language Modeling
+└───Structuring-Machine-Learning-Projects
+```
