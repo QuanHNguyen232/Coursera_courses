@@ -60,3 +60,35 @@
     </li>
 </ol>
 
+## Repo Structure
+
+```
+.
+├───Deep-Learning-Specialization
+│   ├───Convolutional-Neural-Networks
+│   │   ├───Art Generation with Neural Style Transfer
+│   │   ├───Car detection with YOLO
+│   │   ├───Convolution Model Application
+│   │   ├───Convolutional Model, Step by Step
+│   │   ├───Face Recognition
+│   │   ├───Image Segmentation with U-Net
+│   │   ├───Residual Networks
+│   │   └───Transfer Learning with MobileNet
+│   ├───Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization
+│   │   ├───Gradient Checking
+│   │   ├───Initialization
+│   │   ├───Optimization Methods
+│   │   ├───Regularization
+│   │   └───TensorFlow Introduction
+│   ├───Neural-Networks-and-Deep-Learning
+│   │   ├───Building your Deep Neural Network Step by Step
+│   │   ├───Deep Neural Network - Application
+│   │   ├───Logistic Regression with a Neural Network Mindset
+│   │   ├───Planar Data Classification with One Hidden Layer
+│   │   └───Python Basics with Numpy
+│   ├───Sequence-Models
+│   └───Structuring-Machine-Learning-Projects
+├───DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
+├───Generative-Adversarial-Networks-(GANs)-Specialization
+└───Guided-Project
+```
