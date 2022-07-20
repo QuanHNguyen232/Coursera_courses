@@ -4,7 +4,7 @@
 
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [DeepLearning.AI](https://www.deeplearning.ai/).
 
-Instructor: Professor [Andrew Ng](https://www.andrewng.org/)
+Instructor: Professor [Andrew Ng](https://www.andrewng.org/). All Lecture Slides are distributed under the [Creative Commons License](https://creativecommons.org/licenses/by-sa/2.0/legalcode).
 
 ## Courses:
 
@@ -16,7 +16,6 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/)
 
 
 *Note*:
-* Courses taken from 6/2022
 * Files in this part cannot run locally since they use packages from Coursera's system. Code here is just to save for later review
 
 ## Folder Structure
@@ -48,3 +47,5 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/)
 │   └───Dinosaur Island-Character-Level Language Modeling
 └───Structuring-Machine-Learning-Projects
 ```
+
+<p align="right"><a href="#course-deep-learning-specialization">[Back to top]</a></p>

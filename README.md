@@ -2,6 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+### Table of Content
+1. [Specializations](#specializations)
+2. [Courses](#courses)
+3. [Guided Projects](#guided-projects)
+
 ## Specializations
 
 <ol type="1">
@@ -46,6 +51,7 @@
     </li>
     
 </ol>
+
 
 ## Guided Projects
 
@@ -92,3 +98,6 @@
 ├───Generative-Adversarial-Networks-(GANs)-Specialization
 └───Guided-Project
 ```
+
+<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
+

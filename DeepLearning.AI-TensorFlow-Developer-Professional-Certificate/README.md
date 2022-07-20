@@ -14,3 +14,5 @@ Instructor: Professor [Laurence Moroney](https://laurencemoroney.com/)
 
 *Note*:
 * Courses taken from ???/2022
+
+<p align="right"><a href="#deeplearningai-tensorflow-developer-professional-certificate">[Back to top]</a></p>
