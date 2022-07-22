@@ -28,24 +28,32 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/). All Lecture Slides
 │   ├───Convolutional Model, Step by Step
 │   ├───Face Recognition
 │   ├───Image Segmentation with U-Net
+│   ├───Lecture slides
 │   ├───Residual Networks
 │   └───Transfer Learning with MobileNet
 ├───Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization
 │   ├───Gradient Checking
 │   ├───Initialization
+│   ├───Lecture slides
 │   ├───Optimization Methods
 │   ├───Regularization
 │   └───TensorFlow Introduction
 ├───Neural-Networks-and-Deep-Learning
 │   ├───Building your Deep Neural Network Step by Step
 │   ├───Deep Neural Network - Application
+│   ├───Lecture slides
 │   ├───Logistic Regression with a Neural Network Mindset
 │   ├───Planar Data Classification with One Hidden Layer
 │   └───Python Basics with Numpy
 ├───Sequence-Models
 │   ├───Building your Recurrent Neural Network - Step by Step
-│   └───Dinosaur Island-Character-Level Language Modeling
+│   ├───Dinosaur Island-Character-Level Language Modeling
+│   ├───Emojify
+│   ├───Jazz Improvisation with LSTM
+│   ├───Lecture slides
+│   └───Operations on Word Vectors - Debiasing
 └───Structuring-Machine-Learning-Projects
+    └───Lecture slides
 ```
 
 <p align="right"><a href="#course-deep-learning-specialization">[Back to top]</a></p>
