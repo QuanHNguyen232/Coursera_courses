@@ -12,7 +12,7 @@
 <ol type="1">
     <li>
     <details>
-        <summary markdown="span">Deep Learning Specialization (certificate | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/Deep-Learning-Specialization">src_code</a>)</summary>
+        <summary markdown="span">Deep Learning Specialization (<a href="https://coursera.org/share/dccd27c6d354c937825d1a43f8453d20">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/Deep-Learning-Specialization">src_code</a>)</summary>
         <ol type="a">
             <li>Neural Networks and Deep Learning</li>
             <li>Improving Deep Neural Networks Hyperparameter Tuning Regularization and Optimization</li>
@@ -45,6 +45,8 @@
     </li>
 </ol>
 
+<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
+
 ## Courses
 <ol type="1">
     <li>N/A
@@ -52,6 +54,7 @@
     
 </ol>
 
+<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
 
 ## Guided Projects
 
@@ -66,32 +69,16 @@
     </li>
 </ol>
 
+<p align="right"><a href="#coursera-courses">[Back to top]</a></p>
+
 ## Repo Structure
 
 ```
 .
 ├───Deep-Learning-Specialization
 │   ├───Convolutional-Neural-Networks
-│   │   ├───Art Generation with Neural Style Transfer
-│   │   ├───Car detection with YOLO
-│   │   ├───Convolution Model Application
-│   │   ├───Convolutional Model, Step by Step
-│   │   ├───Face Recognition
-│   │   ├───Image Segmentation with U-Net
-│   │   ├───Residual Networks
-│   │   └───Transfer Learning with MobileNet
 │   ├───Improving-Deep-Neural-Networks-Hyperparameter-Tuning-Regularization-and-Optimization
-│   │   ├───Gradient Checking
-│   │   ├───Initialization
-│   │   ├───Optimization Methods
-│   │   ├───Regularization
-│   │   └───TensorFlow Introduction
 │   ├───Neural-Networks-and-Deep-Learning
-│   │   ├───Building your Deep Neural Network Step by Step
-│   │   ├───Deep Neural Network - Application
-│   │   ├───Logistic Regression with a Neural Network Mindset
-│   │   ├───Planar Data Classification with One Hidden Layer
-│   │   └───Python Basics with Numpy
 │   ├───Sequence-Models
 │   └───Structuring-Machine-Learning-Projects
 ├───DeepLearning.AI-TensorFlow-Developer-Professional-Certificate

@@ -1,2 +1,0 @@
-glove.6B.50d.txt is too heavy to push on github
-Download from [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
