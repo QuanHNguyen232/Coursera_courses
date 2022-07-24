@@ -1,0 +1,2 @@
+glove.6B.50d.txt is too heavy to push.
+Download here: https://nlp.stanford.edu/projects/glove/
