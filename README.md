@@ -67,6 +67,8 @@
     </li>
     <li>Deep Learning with PyTorch: Neural Style Transfer (<a href="https://coursera.org/share/7599a1e8ef92ba83f1b1e93e63920e0d">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep-Learning-with-PyTorch-Neural-Style-Transfer.ipynb">src_code</a>)
     </li>
+    <li>Deep Learning with PyTorch: Siamese Network (<a href="https://coursera.org/share/c605068c635aaceaea419e271da320ad">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep-Learning-with-PyTorch-Siamese-Network.ipynb">src_code</a>)
+    </li>
 </ol>
 
 <p align="right"><a href="#coursera-courses">[Back to top]</a></p>
