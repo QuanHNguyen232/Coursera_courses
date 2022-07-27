@@ -69,6 +69,8 @@
     </li>
     <li>Deep Learning with PyTorch: Siamese Network (<a href="https://coursera.org/share/c605068c635aaceaea419e271da320ad">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Deep-Learning-with-PyTorch-Siamese-Network.ipynb">src_code</a>)
     </li>
+    <li>Facial Expression Recognition with PyTorch (<a href="https://coursera.org/share/9573897c56479a619c49b9a9cb099c1b">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Facial-Expression-Recognition-with-PyTorch.ipynb">src_code</a>)
+    </li>
 </ol>
 
 <p align="right"><a href="#coursera-courses">[Back to top]</a></p>

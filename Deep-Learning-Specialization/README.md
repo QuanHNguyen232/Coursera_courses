@@ -1,11 +1,5 @@
 ## Course Deep Learning Specialization
 
-TODO
-
-[ ]: Download W4 ungraded: Transformer Network Application: Question Answering
-
-<!-- Tham khao: https://github.com/quanghuy0497/Deep-Learning-Specialization -->
-
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) offered by [DeepLearning.AI](https://www.deeplearning.ai/).
 
 Instructor: Professor [Andrew Ng](https://www.andrewng.org/). All Lecture Slides are distributed under the [Creative Commons License](https://creativecommons.org/licenses/by-sa/2.0/legalcode).
@@ -52,7 +46,6 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/). All Lecture Slides
 │   └───W4 - Deep Neural Network - Application
 ├───Sequence-Models
 │   ├───Lecture slides
-│   ├───Operations on Word Vectors - Debiasing
 │   ├───W1 - Building your Recurrent Neural Network - Step by Step
 │   ├───W1 - Dinosaur Island-Character-Level Language Modeling
 │   ├───W1 - Jazz Improvisation with LSTM
@@ -61,9 +54,12 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/). All Lecture Slides
 │   ├───W3 - Neural Machine Translation
 │   ├───W3 - Trigger Word Detection
 │   └───W4 - Transformers Architecture with TensorFlow
-│       └───Transformer Applications - Ungraded Labs
+│       ├───Transformer Named-Entity Recognition
+│       ├───Transformer Pre-processing
+│       └───Transformer Question Answering
 └───Structuring-Machine-Learning-Projects
     └───Lecture slides
 ```
 
 <p align="right"><a href="#course-deep-learning-specialization">[Back to top]</a></p>
+<!-- Tham khao: https://github.com/quanghuy0497/Deep-Learning-Specialization -->
