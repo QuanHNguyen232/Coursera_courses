@@ -1,1 +1,1 @@
-Weight file from Stanford: https://nlp.stanford.edu/projects/glove/
+Weight file glove.6B.100d.txt from Stanford: https://nlp.stanford.edu/projects/glove/
