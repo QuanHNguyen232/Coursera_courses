@@ -1,12 +1,12 @@
 ## DeepLearning.AI TensorFlow Developer Professional Certificate
-<!-- Tham khao https://github.com/PramitDutta1999/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate / https://github.com/TheShubham-K/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning -->
+
 [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) offered by [DeepLearning.AI](https://www.deeplearning.ai/).
 
 Instructor: Professor [Laurence Moroney](https://laurencemoroney.com/)
 
 ## Courses:
 
-1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ([certificate] | [assignments])
+1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ([certificate] | [assignments](https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%2C%20and%20DL))
 2. Convolutional Neural Networks in TensorFlow ([certificate] | [assignments])
 3. Natural Language Processing in TensorFlow ([certificate] | [assignments])
 4. Sequences, Time Series and Prediction ([certificate] | [assignments])
@@ -15,4 +15,28 @@ Instructor: Professor [Laurence Moroney](https://laurencemoroney.com/)
 *Note*:
 * Courses taken from 7/2022
 
+## Folder Structure
+```shell
+.
+├───Convolutional Neural Networks in TensorFlow
+├───Introduction to TensorFlow for AI, ML, and DL
+│   ├───Lecture slides
+│   ├───W1
+│   │   ├───assignment
+│   │   └───ungraded_lab
+│   ├───W2
+│   │   ├───assignment
+│   │   │   └───data
+│   │   └───ungraded_lab
+│   ├───W3
+│   │   ├───assignment
+│   │   └───ungraded_lab
+│   └───W4
+│       ├───assignment
+│       └───ungraded_lab
+├───Natural Language Processing in TensorFlow
+└───Sequences, Time Series and Prediction
+```
+
 <p align="right"><a href="#deeplearningai-tensorflow-developer-professional-certificate">[Back to top]</a></p>
+<!-- Tham khao https://github.com/PramitDutta1999/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate / https://github.com/TheShubham-K/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning -->
