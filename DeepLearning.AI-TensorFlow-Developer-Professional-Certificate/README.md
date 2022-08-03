@@ -7,7 +7,7 @@ Instructor: Professor [Laurence Moroney](https://laurencemoroney.com/)
 ## Courses:
 
 1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning ([certificate](https://coursera.org/share/d9fc3b157b7c45dd4ac90cecd59baac9) | [assignments](https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%2C%20and%20DL))
-2. Convolutional Neural Networks in TensorFlow ([certificate] | [assignments](https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/Convolutional%20Neural%20Networks%20in%20TensorFlow))
+2. Convolutional Neural Networks in TensorFlow ([certificate](https://coursera.org/share/a814f6827af97fc04d36a00113c79575) | [assignments](https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/Convolutional%20Neural%20Networks%20in%20TensorFlow))
 3. Natural Language Processing in TensorFlow ([certificate] | [assignments](https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/Natural%20Language%20Processing%20in%20TensorFlow))
 4. Sequences, Time Series and Prediction ([certificate] | [assignments](https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/Sequences%2C%20Time%20Series%20and%20Prediction))
 
