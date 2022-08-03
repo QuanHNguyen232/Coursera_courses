@@ -19,25 +19,17 @@ Instructor: Professor [Laurence Moroney](https://laurencemoroney.com/)
 ```shell
 .
 ├───Convolutional Neural Networks in TensorFlow
+│   ├───Lecture slides
+│   ├───W1
+│   ├───W2
+│   ├───W3
+│   └───W4
 ├───Introduction to TensorFlow for AI, ML, and DL
 │   ├───Lecture slides
 │   ├───W1
-│   │   ├───assignment
-│   │   └───ungraded_lab
 │   ├───W2
-│   │   ├───assignment
-│   │   │   └───data
-│   │   └───ungraded_lab
 │   ├───W3
-│   │   ├───assignment
-│   │   │   └───data
-│   │   └───ungraded_lab
 │   └───W4
-│       ├───assignment
-│       │   └───data
-│       │       ├───happy
-│       │       └───sad
-│       └───ungraded_lab
 ├───Natural Language Processing in TensorFlow
 └───Sequences, Time Series and Prediction
 ```

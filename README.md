@@ -86,6 +86,10 @@
 │   ├───Sequence-Models
 │   └───Structuring-Machine-Learning-Projects
 ├───DeepLearning.AI-TensorFlow-Developer-Professional-Certificate
+│   ├───Convolutional Neural Networks in TensorFlow
+│   ├───Introduction to TensorFlow for AI, ML, and DL
+│   ├───Natural Language Processing in TensorFlow
+│   └───Sequences, Time Series and Prediction
 ├───Generative-Adversarial-Networks-(GANs)-Specialization
 └───Guided-Project
 ```
