@@ -71,6 +71,10 @@
     </li>
     <li>Facial Expression Recognition with PyTorch (<a href="https://coursera.org/share/9573897c56479a619c49b9a9cb099c1b">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Facial-Expression-Recognition-with-PyTorch.ipynb">src_code</a>)
     </li>
+    <li>Creating Multi Task Models With Keras (<a href="https://coursera.org/share/70196b0d68816de9c78f7f31c191a2b7">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Creating-Multi-Task-Models-With-Keras.ipynb">src_code</a>)
+    </li>
+    <li>Visualizing Filters of a CNN using TensorFlow (<a href="https://coursera.org/share/e942b071cf033d942b2ca2e4c30fd0ce">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Visualizing-Filters-of-a-CNN.ipynb">src_code</a>)
+    </li>
 </ol>
 
 <p align="right"><a href="#coursera-courses">[Back to top]</a></p>
