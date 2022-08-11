@@ -15,6 +15,8 @@ Instructor: Professor [Laurence Moroney](https://laurencemoroney.com/)
 *Note*:
 * Courses taken from 7/2022
 
+<p align="right"><a href="#deeplearningai-tensorflow-developer-professional-certificate">[Back to top]</a></p>
+
 ## Folder Structure
 ```
 .
@@ -40,4 +42,6 @@ Instructor: Professor [Laurence Moroney](https://laurencemoroney.com/)
 ```
 
 <p align="right"><a href="#deeplearningai-tensorflow-developer-professional-certificate">[Back to top]</a></p>
-<!-- Tham khao https://github.com/PramitDutta1999/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate / https://github.com/TheShubham-K/Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning -->
+
+<!-- Tham khao https://github.com/PramitDutta1999/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate / https://github.com/TheShubham-K/
+Introduction-to-TensorFlow-for-Artificial-Intelligence-Machine-Learning-and-Deep-Learning -->

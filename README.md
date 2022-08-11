@@ -87,6 +87,9 @@
 │   ├───Natural Language Processing in TensorFlow
 │   └───Sequences, Time Series and Prediction
 ├───Generative-Adversarial-Networks-(GANs)-Specialization
+│   ├───Apply Generative Adversarial Networks (GANs)
+│   ├───Build Basic Generative Adversarial Networks (GANs)
+│   └───Build Better Generative Adversarial Networks (GANs)
 └───Guided-Project
 ```
 

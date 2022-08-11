@@ -1,7 +1,5 @@
 ## Generative Adversarial Networks (GANs) Specialization
 
-<!-- Tham khao: https://github.com/quanghuy0497/Deep-Learning-Specialization -->
-
 [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) offered by [DeepLearning.AI](https://www.deeplearning.ai/).
 
 Instructor: Professor [Sharon Zhou](https://sharonzhou.me/)
@@ -15,3 +13,18 @@ Instructor: Professor [Sharon Zhou](https://sharonzhou.me/)
 
 *Note*:
 * Courses taken from ???/2022
+
+<p align="right"><a href="#generative-adversarial-networks-gans-specialization">[Back to top]</a></p>
+
+
+## Folder Structure
+```
+.
+├───Apply Generative Adversarial Networks (GANs)
+├───Build Basic Generative Adversarial Networks (GANs)
+└───Build Better Generative Adversarial Networks (GANs)
+```
+
+<p align="right"><a href="#generative-adversarial-networks-gans-specialization">[Back to top]</a></p>
+
+<!-- Tham khao https://github.com/wangzizhe/GAN-Specialization-Coursera | https://github.com/CuongNN218/GAN-Coursera | https://github.com/amanchadha/coursera-gan-specialization -->

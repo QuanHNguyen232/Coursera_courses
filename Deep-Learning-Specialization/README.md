@@ -16,6 +16,7 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/). All Lecture Slides
 *Note*:
 * Files in this part cannot run locally since they use packages from Coursera's system. Code here is just to save for later review
 
+<p align="right"><a href="#course-deep-learning-specialization">[Back to top]</a></p>
 
 ## Folder Structure
 ```shell
@@ -62,4 +63,5 @@ Instructor: Professor [Andrew Ng](https://www.andrewng.org/). All Lecture Slides
 ```
 
 <p align="right"><a href="#course-deep-learning-specialization">[Back to top]</a></p>
+
 <!-- Tham khao: https://github.com/quanghuy0497/Deep-Learning-Specialization -->
