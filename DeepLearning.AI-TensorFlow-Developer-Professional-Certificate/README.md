@@ -16,7 +16,7 @@ Instructor: Professor [Laurence Moroney](https://laurencemoroney.com/)
 * Courses taken from 7/2022
 
 ## Folder Structure
-```shell
+```
 .
 ├───Convolutional Neural Networks in TensorFlow
 │   ├───Lecture slides
@@ -31,6 +31,11 @@ Instructor: Professor [Laurence Moroney](https://laurencemoroney.com/)
 │   ├───W3
 │   └───W4
 ├───Natural Language Processing in TensorFlow
+│   ├───Lecture slides
+│   ├───W1
+│   ├───W2
+│   ├───W3
+│   └───W4
 └───Sequences, Time Series and Prediction
 ```
 
