@@ -1,0 +1,2 @@
+glove.6B.100d.txt can be found on Stanford GLoVE
+training_cleaned.csv is too heavy to push on Github
