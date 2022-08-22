@@ -57,7 +57,7 @@
 <p align="right"><a href="#coursera-courses">[Back to top]</a></p>
 
 ## Guided Projects
-
+Go to [guided projects](https://github.com/QuanHNguyen232/Coursera_courses/tree/main/Guided-Project) folder.
 <ol type="1">
     <li>Deep Learning with PyTorch: Object Localization</li>
     <li>Deep Learning with PyTorch: Image Segmentation</li>
@@ -71,7 +71,7 @@
 
 <p align="right"><a href="#coursera-courses">[Back to top]</a></p>
 
-## Repo Structure
+## Folder Structure
 
 ```
 .
