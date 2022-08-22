@@ -67,6 +67,7 @@ Go to [guided projects](https://github.com/QuanHNguyen232/Coursera_courses/tree/
     <li>Facial Expression Recognition with PyTorch</li>
     <li>Creating Multi Task Models With Keras</li>
     <li>Visualizing Filters of a CNN using TensorFlow</li>
+    <li>Fine Tune BERT for Text Classification with TensorFlow</li>
 </ol>
 
 <p align="right"><a href="#coursera-courses">[Back to top]</a></p>

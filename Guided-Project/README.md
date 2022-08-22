@@ -33,6 +33,7 @@ Collection of all Guided Projects I have taken on Coursera
     </li>
     <li>Optimize TensorFlow Models For Deployment with TensorRT (<a href="https://coursera.org/share/c7f2f2d1b68e73034981919c4004c73c">certificate</a> | <a href="https://nbviewer.org/github/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Optimize-TensorFlow-Models-For-Deployment-with-TensorRT.ipynb">src_code</a>)
     </li>
+    <li>Fine Tune BERT for Text Classification with TensorFlow (<a href="https://coursera.org/share/d96a1e78d5697ef6da0617792cb2974c">certificate</a> | <a href="https://nbviewer.org/github/QuanHNguyen232/Coursera-courses/blob/main/Guided-Project/Fine-Tune-BERT-for-Text-Classification-with-TensorFlow.ipynb">src_code</a>)</li>
 </ol>
 
 <p align="right"><a href="#guided-projects">[Back to top]</a></p>
