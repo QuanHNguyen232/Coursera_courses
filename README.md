@@ -34,7 +34,7 @@
     </li>
     <li>
     <details>
-        <summary markdown="span">DeepLearning.AI TensorFlow Developer Professional Certificate (certificate | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate">src_code</a>)</summary>
+        <summary markdown="span">DeepLearning.AI TensorFlow Developer Professional Certificate (<a href="https://coursera.org/share/8f01b853d939511003edfca477f91e5b">certificate</a> | <a href="https://github.com/QuanHNguyen232/Coursera-courses/tree/main/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate">src_code</a>)</summary>
         <ol type="a">
             <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning</li>
             <li>Convolutional Neural Networks in TensorFlow</li>
