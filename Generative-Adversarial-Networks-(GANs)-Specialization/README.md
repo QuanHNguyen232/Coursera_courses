@@ -12,7 +12,7 @@ Instructor: Professor [Sharon Zhou](https://sharonzhou.me/)
 
 
 *Note*:
-* Courses taken from ???/2022
+* Courses taken from 10/2022
 
 <p align="right"><a href="#generative-adversarial-networks-gans-specialization">[Back to top]</a></p>
 
